@@ -1,4 +1,5 @@
 Bode Lead Compensation Design
+
 This MATLAB function bode_lead.m implements a phase-lead compensator design method using the Bode plot. It calculates the lead compensation parameters K, T, and alpha to achieve a specified phase margin (PM) at a crossover frequency (wc) for a given plant transfer function np/dp.
 
 Usage
